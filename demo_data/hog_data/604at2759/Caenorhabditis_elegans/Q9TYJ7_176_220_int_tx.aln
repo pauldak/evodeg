@@ -1,0 +1,22 @@
+CLUSTAL
+
+zero_prot    MSIEYSVIVPAYHEKLNIKPLTTRLFAGMSPEMAKKTELIFVDDNSQDGSVEEVDALAHQGYN
+crnt_prot    MTSTPKYSIILPTYNEKENLPICIWLIENYLKEVSHEVIIVDDASPDGTQGIAKLLQKEYGDD
+                                                                            
+
+zero_prot    VRIIVRTNERGLSSAVLKGFYEAKGQYLVCMDADLQHPPETVPKLFESLHDHAFTLGTRYAPG
+crnt_prot    KILIKPRVGKLGLGTAYSHGLSFARGEFIILMDADLSHHPKFIPEMIALQHKYKLDIVTGTRY
+                                                                            
+
+zero_prot    VGIDKDWPMYRRVISSTARMMARPLTIASDPMSGFFGLQKKYLENCNPRDINSQ---GFKIAL
+crnt_prot    KDGGGVSGWDLKRKTISKGANFLAQFLLNPGVSDLTGSFRLYKRDILSKLIAESVSKGYVFQM
+                                                                      *.....
+
+zero_prot    ELLAKLPLPRDPRVAIGEVPFTFGVRTEGESKLSGKVIIQYLQQLKELYVFKFGANNLILFIT
+crnt_prot    EMMFRAKKSGY---RIGEVPISFVDRFFGESKLGSQEIVDYAKGLLYLFAFVW----------
+             *.....        .*****..*                                        
+
+zero_prot    FWSILFFYVCYQLYHLVF                                             
+crnt_prot    ------------------                                             
+                                                                            
+

@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Code Ocean entry point.
+# Runs demo.m in headless MATLAB and saves all figures to /results/.
+set -e
+
+matlab -nodisplay -nosplash -r "run('/code/run_demo.m'); exit"

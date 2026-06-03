@@ -1,0 +1,38 @@
+CLUSTAL
+
+zero_prot    MIEKDKRTIAFIHPDLGIGGAERLVVDAALGLQQQGHSVIIYTSHCDKSHCFEEVKNGQLKVE
+crnt_prot    MVR-----VVFIHPDLGIGGAERFVVDAALALKSKGHCVQFVTAHHDKSHCFKETKDGTLNVT
+                     ..*************.******.*...**.*...*.*.******.*.*.*.*.*.
+
+zero_prot    VYGDFLPTNFLGRFFIVFATIRQLYLVIQLILQKKVNAYQLIIIDQLSTCIPLLHIFSSATLM
+crnt_prot    AVGDWLPRQCLGHFYAFWAYVRMIYAAVYLVWFSGMVVVYDDICVIIINPLTYLHEYRNLIGS
+             ..*               *..*..*....*.                                
+
+zero_prot    FYCHFPDQLLAQRAGLLKKIYRLPFD--LIEQFSVSAADTVVVNSNFTKNTFHQTFKYL-SND
+crnt_prot    PTHYLLSLILLSQNPALFYFAFPKSCLVLMTIFFKGMADLVLVNSNFTADTFLKTFKTLRSSR
+                                         *...*....**.*.******..**..***.* *..
+
+zero_prot    PDVIYPCVDLSTIEIEDIDKKFFKTVFNEGDRFYLSINRFEKKKDVALAIKAFALSEDQINDN
+crnt_prot    PSVLYPSINFESFHIPFDHEEVKDLIPPTAKHVFLSINRYERKKNLPLALEALDWLRNTVSKE
+             *.*.**.......                     *****.*.**...**..*.          
+
+zero_prot    VK----LVICGGYDERVAENVEYLKELQSLADEYELSHTTIYYQEIKRVSDLESFKTNNSKII
+crnt_prot    AWKETHLVISGGYDERVGENKQHYLELQALASKYNLSE----------------------KVT
+                   ***.*******.**.....***.**..*.**                       *..
+
+zero_prot    FLTSISSSLKELLLERTEMLLYTPAYEHFGIVPLEAMKLGKPVLAVNNGGPLETIKSYVAGEN
+crnt_prot    FIRSFSENQKLALLDFCCCLLYTPSNEHFGLVPIEAMYAERPVIAVKSGGPLETVSHN-----
+             *..*.*...*..**.....*****..****.**.***....**.**..******...      
+
+zero_prot    ESSATGWLKPAVPIQWATAIDESRKILQNGSVNFERNGPLRVKKYFSREAMTQSFEENVEKVI
+crnt_prot    ---KTGFLCDPDAESFAKAMQKIVEGDKLRKSLGEA-GRPHVMSKFSFEV----FAEQLHTLV
+                .**.*........*.*.                 *...*...**.*.    *        
+
+zero_prot    WKEKKYYPWEIFGISFSNFILHMAFIKILPNNPWPFLFMATFMVLYFKNYLWGIYWAFVFALS
+crnt_prot    CQLYLLSFDAYDVD-------------------------------------------------
+                                                                            
+
+zero_prot    YPYEEI                                                         
+crnt_prot    ------                                                         
+                                                                            
+
